@@ -7,7 +7,7 @@ img{
 }
 .topnav {
   overflow: hidden;
-  background-color: Steelblue;
+  background-color: MediumslateBlue;
 }
 
 /* Style the topnav links */
@@ -30,7 +30,7 @@ img{
   background-color:orange; /* Green */
   color: white;
   padding: 5px;
-  text-align: right;
+  text-align:left;
   text-decoration: none;
   font-size: 20px;
   font-style: normal;
